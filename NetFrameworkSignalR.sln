@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetFrameworkSignalR", "NetFrameworkSignalR\NetFrameworkSignalR.csproj", "{0FBE2782-B0F1-42EC-84F5-308B40F7C88E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FBE2782-B0F1-42EC-84F5-308B40F7C88E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FBE2782-B0F1-42EC-84F5-308B40F7C88E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FBE2782-B0F1-42EC-84F5-308B40F7C88E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FBE2782-B0F1-42EC-84F5-308B40F7C88E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19D4D2B3-274E-4B66-948A-12729FF90C87}
+	EndGlobalSection
+EndGlobal
